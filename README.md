@@ -1,9 +1,9 @@
 
 ## Available Scripts
-
-<p align="center">
-url("../screen.png") width="100%">git
-</p>
+[alt text](http://url/to/screen-1.png)
+//<p align="center">
+//[alt text](http://url/to/img.png) width="100%">git
+//</p>
 
 In the project directory, you can run:
 
