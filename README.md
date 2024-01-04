@@ -2,7 +2,7 @@
 ## Available Scripts
 
 <p align="center">
-<img src="![Alt text](screen-1.png)" width="100%">
+<img src="![Alt text](screen-1.png)" width="100%">git
 </p>
 
 In the project directory, you can run:
